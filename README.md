@@ -1,4 +1,4 @@
-![vlsi 4](https://github.com/user-attachments/assets/8183ce38-be21-4182-979e-0d9538e1df15)# EXP02--Design-Implementation-of-Full-Custom-2-1-MUX-using-Cadence-EDA-Tools
+# EXP02--Design-Implementation-of-Full-Custom-2-1-MUX-using-Cadence-EDA-Tools
 Experiment -2 
 Aim:
 To design and implement a 2:1 multiplexer (MUX) circuit using Cadence EDA tools, analyse its functionality and performance, and understand the principles of digital logic design, including schematic creation, layout design, and simulation.
@@ -46,7 +46,7 @@ ii)	Create Schematic Cell view.
 	Create Input and Output pins
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
-![vlsi 1](https://github.com/user-attachments/assets/304c4300-00da-4103-925c-5c1e8e21ea28)
+![vlsi 1](https://github.com/user-attachments/assets/90eca317-37ed-4867-a05f-281e56d0bd16)
 
 
 
@@ -64,8 +64,7 @@ iii)	Creating the Symbol for schematic Cell view
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
-![vlsi 2](https://github.com/user-attachments/assets/e7d095d8-2184-4bbb-baaf-36a8c78b7bcd)
-
+ ![vlsi 2](https://github.com/user-attachments/assets/09eec345-1ff3-444a-a2cf-290adec53555)
 
 
 
@@ -77,7 +76,7 @@ iv)	Creating the new test cell view
 	View: Schematic
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
- ![vlsi 4](https://github.com/user-attachments/assets/44334c30-9f1f-4b7a-a0e0-8e566d51b6d7)
+ ![image](https://github.com/user-attachments/assets/85b7456e-1902-4ac2-8291-6ae6035dd0a2)
 
 Analog simulation by SPECTRE.
 •	In test cell view window
@@ -91,13 +90,10 @@ Analog simulation by SPECTRE.
 •	Execute Simulation -- Net list and Run
  ![image](https://github.com/user-attachments/assets/92eae130-d124-4f8b-a4b5-0040f418f193)
 
-
 For Transient Analysis Settings and Output
-![image](https://github.com/user-attachments/assets/47f7be45-4763-4d32-9eae-c417d1b7d501)
+ ![image](https://github.com/user-attachments/assets/47f7be45-4763-4d32-9eae-c417d1b7d501)
+
  ![vlsi 3](https://github.com/user-attachments/assets/d2ca062e-64b0-49d3-a896-562ed7d19088)
-
-
-
 
 
 
